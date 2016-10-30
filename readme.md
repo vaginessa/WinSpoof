@@ -6,4 +6,4 @@ spoof_gateway_example.bat
 spoof_target_example.bat
 </pre>
 
-welche demonstrieren, wie man das Programm startet. Eine WinPcap Driver sowie Java Installation ist vorausgesetzt.
+welche demonstrieren, wie man das Programm startet. WinPcap sowie Java Installation ist vorausgesetzt.
